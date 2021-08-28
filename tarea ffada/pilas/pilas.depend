@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630109040 source:c:\users\luis miguel\desktop\tarea ffada\pilas\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+
